@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERC20Airdrop.VottunERC20API.NET", "ERC20Airdrop.VottunERC20API.NET.csproj", "{8CDDA4E5-97B7-4216-9AAF-D604DD5E0595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDDA4E5-97B7-4216-9AAF-D604DD5E0595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDDA4E5-97B7-4216-9AAF-D604DD5E0595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDDA4E5-97B7-4216-9AAF-D604DD5E0595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDDA4E5-97B7-4216-9AAF-D604DD5E0595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67880E2F-1B9E-4311-A64D-D4258AD8CC3D}
+	EndGlobalSection
+EndGlobal
